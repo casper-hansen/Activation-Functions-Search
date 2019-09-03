@@ -1,2 +1,2 @@
 # Activation-Functions-Search
- Notebook with Grid Search over different Keras activation functions
+This is code for the article [over at ML From Scratch](https://mlfromscratch.com/activation-functions-explained/) on activation functions.
